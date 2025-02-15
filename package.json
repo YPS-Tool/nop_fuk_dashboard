@@ -1,7 +1,7 @@
 {
   "name": "nop_fuk_dashboard",
   "version": "1.0.0",
-  "homepage": "https://YPS-Tool.github.io/nop_fuk_dashboard"
+  "homepage": "https://YPS-Tool.github.io/nop_fuk_dashboard",
   "private": true,
   "dependencies": {
     "chart.js": "^4.4.7",
