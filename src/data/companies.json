@@ -1,0 +1,602 @@
+[
+    {
+      "id": 1,
+      "name": "株式会社サンプル1",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 363
+    },
+    {
+      "id": 2,
+      "name": "株式会社サンプル2",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 488
+    },
+    {
+      "id": 3,
+      "name": "株式会社サンプル3",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 367
+    },
+    {
+      "id": 4,
+      "name": "株式会社サンプル4",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 367
+    },
+    {
+      "id": 5,
+      "name": "株式会社サンプル5",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 298
+    },
+    {
+      "id": 6,
+      "name": "株式会社サンプル6",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 439
+    },
+    {
+      "id": 7,
+      "name": "株式会社サンプル7",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 104
+    },
+    {
+      "id": 8,
+      "name": "株式会社サンプル8",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 469
+    },
+    {
+      "id": 9,
+      "name": "株式会社サンプル9",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 207
+    },
+    {
+      "id": 10,
+      "name": "株式会社サンプル10",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 316
+    },
+    {
+      "id": 11,
+      "name": "株式会社サンプル11",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 300
+    },
+    {
+      "id": 12,
+      "name": "株式会社サンプル12",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 169
+    },
+    {
+      "id": 13,
+      "name": "株式会社サンプル13",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 205
+    },
+    {
+      "id": 14,
+      "name": "株式会社サンプル14",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 205
+    },
+    {
+      "id": 15,
+      "name": "株式会社サンプル15",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 314
+    },
+    {
+      "id": 16,
+      "name": "株式会社サンプル16",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 124
+    },
+    {
+      "id": 17,
+      "name": "株式会社サンプル17",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 179
+    },
+    {
+      "id": 18,
+      "name": "株式会社サンプル18",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 185
+    },
+    {
+      "id": 19,
+      "name": "株式会社サンプル19",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 423
+    },
+    {
+      "id": 20,
+      "name": "株式会社サンプル20",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 353
+    },
+    {
+      "id": 21,
+      "name": "株式会社サンプル21",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 231
+    },
+    {
+      "id": 22,
+      "name": "株式会社サンプル22",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 478
+    },
+    {
+      "id": 23,
+      "name": "株式会社サンプル23",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 240
+    },
+    {
+      "id": 24,
+      "name": "株式会社サンプル24",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 470
+    },
+    {
+      "id": 25,
+      "name": "株式会社サンプル25",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 274
+    },
+    {
+      "id": 26,
+      "name": "株式会社サンプル26",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 448
+    },
+    {
+      "id": 27,
+      "name": "株式会社サンプル27",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 411
+    },
+    {
+      "id": 28,
+      "name": "株式会社サンプル28",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 459
+    },
+    {
+      "id": 29,
+      "name": "株式会社サンプル29",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 333
+    },
+    {
+      "id": 30,
+      "name": "株式会社サンプル30",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 405
+    },
+    {
+      "id": 31,
+      "name": "株式会社サンプル31",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 70
+    },
+    {
+      "id": 32,
+      "name": "株式会社サンプル32",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 141
+    },
+    {
+      "id": 33,
+      "name": "株式会社サンプル33",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 194
+    },
+    {
+      "id": 34,
+      "name": "株式会社サンプル34",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 319
+    },
+    {
+      "id": 35,
+      "name": "株式会社サンプル35",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 320
+    },
+    {
+      "id": 36,
+      "name": "株式会社サンプル36",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 418
+    },
+    {
+      "id": 37,
+      "name": "株式会社サンプル37",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 87
+    },
+    {
+      "id": 38,
+      "name": "株式会社サンプル38",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 181
+    },
+    {
+      "id": 39,
+      "name": "株式会社サンプル39",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 477
+    },
+    {
+      "id": 40,
+      "name": "株式会社サンプル40",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 138
+    },
+    {
+      "id": 41,
+      "name": "株式会社サンプル41",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 161
+    },
+    {
+      "id": 42,
+      "name": "株式会社サンプル42",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 184
+    },
+    {
+      "id": 43,
+      "name": "株式会社サンプル43",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 468
+    },
+    {
+      "id": 44,
+      "name": "株式会社サンプル44",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 375
+    },
+    {
+      "id": 45,
+      "name": "株式会社サンプル45",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 426
+    },
+    {
+      "id": 46,
+      "name": "株式会社サンプル46",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 72
+    },
+    {
+      "id": 47,
+      "name": "株式会社サンプル47",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 428
+    },
+    {
+      "id": 48,
+      "name": "株式会社サンプル48",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 173
+    },
+    {
+      "id": 49,
+      "name": "株式会社サンプル49",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 248
+    },
+    {
+      "id": 50,
+      "name": "株式会社サンプル50",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 199
+    },
+    {
+      "id": 51,
+      "name": "株式会社サンプル51",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 279
+    },
+    {
+      "id": 52,
+      "name": "株式会社サンプル52",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 96
+    },
+    {
+      "id": 53,
+      "name": "株式会社サンプル53",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 188
+    },
+    {
+      "id": 54,
+      "name": "株式会社サンプル54",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 114
+    },
+    {
+      "id": 55,
+      "name": "株式会社サンプル55",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 116
+    },
+    {
+      "id": 56,
+      "name": "株式会社サンプル56",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 392
+    },
+    {
+      "id": 57,
+      "name": "株式会社サンプル57",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 357
+    },
+    {
+      "id": 58,
+      "name": "株式会社サンプル58",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 73
+    },
+    {
+      "id": 59,
+      "name": "株式会社サンプル59",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 360
+    },
+    {
+      "id": 60,
+      "name": "株式会社サンプル60",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 54
+    },
+    {
+      "id": 61,
+      "name": "株式会社サンプル61",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 347
+    },
+    {
+      "id": 62,
+      "name": "株式会社サンプル62",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 97
+    },
+    {
+      "id": 63,
+      "name": "株式会社サンプル63",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 61
+    },
+    {
+      "id": 64,
+      "name": "株式会社サンプル64",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 85
+    },
+    {
+      "id": 65,
+      "name": "株式会社サンプル65",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 349
+    },
+    {
+      "id": 66,
+      "name": "株式会社サンプル66",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 492
+    },
+    {
+      "id": 67,
+      "name": "株式会社サンプル67",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 293
+    },
+    {
+      "id": 68,
+      "name": "株式会社サンプル68",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 138
+    },
+    {
+      "id": 69,
+      "name": "株式会社サンプル69",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 236
+    },
+    {
+      "id": 70,
+      "name": "株式会社サンプル70",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 219
+    },
+    {
+      "id": 71,
+      "name": "株式会社サンプル71",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 371
+    },
+    {
+      "id": 72,
+      "name": "株式会社サンプル72",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 125
+    },
+    {
+      "id": 73,
+      "name": "株式会社サンプル73",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 406
+    },
+    {
+      "id": 74,
+      "name": "株式会社サンプル74",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 105
+    },
+    {
+      "id": 75,
+      "name": "株式会社サンプル75",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 494
+    },
+    {
+      "id": 76,
+      "name": "株式会社サンプル76",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 215
+    },
+    {
+      "id": 77,
+      "name": "株式会社サンプル77",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 478
+    },
+    {
+      "id": 78,
+      "name": "株式会社サンプル78",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 65
+    },
+    {
+      "id": 79,
+      "name": "株式会社サンプル79",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 391
+    },
+    {
+      "id": 80,
+      "name": "株式会社サンプル80",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 250
+    },
+    {
+      "id": 81,
+      "name": "株式会社サンプル81",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 73
+    },
+    {
+      "id": 82,
+      "name": "株式会社サンプル82",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 139
+    },
+    {
+      "id": 83,
+      "name": "株式会社サンプル83",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 69
+    },
+    {
+      "id": 84,
+      "name": "株式会社サンプル84",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 192
+    },
+    {
+      "id": 85,
+      "name": "株式会社サンプル85",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 473
+    },
+    {
+      "id": 86,
+      "name": "株式会社サンプル86",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 256
+    },
+    {
+      "id": 87,
+      "name": "株式会社サンプル87",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 207
+    },
+    {
+      "id": 88,
+      "name": "株式会社サンプル88",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 279
+    },
+    {
+      "id": 89,
+      "name": "株式会社サンプル89",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 440
+    },
+    {
+      "id": 90,
+      "name": "株式会社サンプル90",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 213
+    },
+    {
+      "id": 91,
+      "name": "株式会社サンプル91",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 97
+    },
+    {
+      "id": 92,
+      "name": "株式会社サンプル92",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 409
+    },
+    {
+      "id": 93,
+      "name": "株式会社サンプル93",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 53
+    },
+    {
+      "id": 94,
+      "name": "株式会社サンプル94",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 219
+    },
+    {
+      "id": 95,
+      "name": "株式会社サンプル95",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 309
+    },
+    {
+      "id": 96,
+      "name": "株式会社サンプル96",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 415
+    },
+    {
+      "id": 97,
+      "name": "株式会社サンプル97",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 216
+    },
+    {
+      "id": 98,
+      "name": "株式会社サンプル98",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 492
+    },
+    {
+      "id": 99,
+      "name": "株式会社サンプル99",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 183
+    },
+    {
+      "id": 100,
+      "name": "株式会社サンプル100",
+      "logo": "/assets/company-logos/sample.png",
+      "initialEmployees": 67
+    }
+  ]
