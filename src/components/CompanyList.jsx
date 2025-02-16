@@ -5,7 +5,7 @@ import companies from '../data/companies.json';
 const CompanyList = () => {
   return (
     <div>
-      <h2>福岡の100社一覧ver2</h2>
+      <h2>福岡の100社一覧ver3</h2>
       <ul>
         {companies.map((company) => (
           <li key={company.id}>
